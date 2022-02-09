@@ -1,0 +1,6 @@
+{
+    "host": "127.0.0.1",
+    "port": 7000,
+    "secret_key": "AjjqWD223P00",
+    "salt": 10
+}
